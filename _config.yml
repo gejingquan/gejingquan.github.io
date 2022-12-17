@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jingquan Ge"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jingquan Ge"
 description              : &description "Research Fellow in Nanyang Technological University"
