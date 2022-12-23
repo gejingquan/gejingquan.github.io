@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jingquan Ge (葛景全)"
+name                     : &name "Jingquan Ge"
 description              : &description "Research Fellow in Nanyang Technological University"
 url                      : https://gejingquan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingquan Ge (葛景全)"
+  name             : "Jingquan Ge"
   avatar           : "me.png"
   bio              : "Research Fellow in Nanyang Technological University, expert in system security and software analysis"
   location         : "Singapore"
