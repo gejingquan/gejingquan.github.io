@@ -13,22 +13,22 @@ I am now a research fellow at Nanyang Technological University. I am interested 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Engineering, Ocean University of China, Sep.2004-Jun.2008
+* M.S. in Electronics and Communication Engineering, University of Chinese Academy of Sciences, Sep.2013-Jun.2016
+* Ph.D in Cyberspace Security, University of Chinese Academy of Sciences, Sep.2016-Jan.2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan.2020-Jun.2022: Research Fellow
+  * Southern University of Science and Technology
+  * Duties included: Study on hardware and system security
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+* Jun.2022-present: Research Fellow
+  * Nanyang Technological University
+  * Duties included: Study on System and software security
+ 
+ 
 Skills
 ======
 * Skill 1
