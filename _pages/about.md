@@ -15,15 +15,15 @@ Education
 ======
 * B.S. in Communication Engineering, Ocean University of China
 
-Sep. 2004 - Jun. 2008 
+    Sep. 2004 - Jun. 2008 
 
 * M.S. in Electronics and Communication Engineering, University of Chinese Academy of Sciences
 
-Sep. 2013 - Jun. 2016 
+    Sep. 2013 - Jun. 2016 
 
 * Ph.D in Cyberspace Security, University of Chinese Academy of Sciences
 
-Sep. 2016 - Jan. 2020
+    Sep. 2016 - Jan. 2020
 
 Work experience
 ======
