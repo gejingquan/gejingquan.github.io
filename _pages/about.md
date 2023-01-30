@@ -13,15 +13,17 @@ I am now a research fellow at Nanyang Technological University. I am interested 
 
 Education
 ======
-* B.S. in Communication Engineering, 
+* B.S. in Communication Engineering, Ocean University of China
 
-Ocean University of China, Sep.2004-Jun.2008
-* M.S. in Electronics and Communication Engineering, 
+Sep. 2004 - Jun. 2008 
 
-University of Chinese Academy of Sciences, Sep.2013-Jun.2016
-* Ph.D in Cyberspace Security, 
+* M.S. in Electronics and Communication Engineering, University of Chinese Academy of Sciences
 
-University of Chinese Academy of Sciences, Sep.2016-Jan.2020
+Sep. 2013 - Jun. 2016 
+
+* Ph.D in Cyberspace Security, University of Chinese Academy of Sciences
+
+Sep. 2016 - Jan. 2020
 
 Work experience
 ======
