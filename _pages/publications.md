@@ -20,7 +20,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 
 > 2020
-
 - Min He, Cunqing Ma, **Jingquan Ge**, Neng Gao, and Chenyang Tu. 
   **Flush‑Detector: More Secure API Resistant to Flush‑Based Spectre Attacks on ARM Cortex‑A9.** (ISCC 2020).
 
@@ -33,7 +32,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 
 > 2019
-
 - Chenyang Tu, Zeyi Liu, Neng Gao, Cunqing Ma, **Jingquan Ge**, and Lingchen Zhang. 
 **MACM: How to reduce the multi-round SCA to the single-round attack on the Feistel-SP Networks.** (TIFS 2019).
 
@@ -49,8 +47,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 - Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, and **Jingquan Ge**. 
 **Knowledge Graph Embedding with Order Information of Triplets.** (PAKDD 2019).
 
-> 2018
 
+
+> 2018
 - **Jingquan Ge**, Neng Gao, Chenyang Tu, Ji Xiang, Zeyi Liu, and Jun Yuan. 
 **Combination of Hardware and Software: An Efficient AES Implementation Resistant to Side-Channel Attacks on All Programmable SoC.** (ESORICS 2018).
 
