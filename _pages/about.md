@@ -23,6 +23,9 @@ Education
 
 Work experience
 ======
+
+* Jun.2008-Sep.2013: Freelancer
+
 * Jan.2020-Jun.2022: Research Fellow
   * Southern University of Science and Technology
   * Duties included: Study on hardware and system security
