@@ -41,7 +41,7 @@ Work experience
 Academic Services
 ======
 
-* Reviewer of UIC 2022.
+* Reviewer of IEEE UIC 2022.
 
 * Reviewer of Journal of Systems Architecture.
  
