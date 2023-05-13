@@ -5,4 +5,4 @@ permalink: /projects/
 author_profile: true
 ---
 
-This is my projects!
+These are my projects!
