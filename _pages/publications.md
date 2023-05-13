@@ -10,8 +10,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 > 2023
 - **Jingquan Ge**, and Fengwei Zhang. 
 **FlushTime: Towards Mitigating Flush-based Cache Attacks via Collaborating Flush Instructions and Timers on ARMv8-A** (AsiaCCS 2023).
-
-> 2023
 - **Jingquan Ge**, Yuekang Li, Yang Liu, Yaowen Zheng, Yi Liu, and Lida Zhao. 
 **PumpChannel: An Efficient and Secure Communication Channel for Trusted Execution Environment on ARM‑FPGA Embedded SoC.** (DATE 2023).
 
