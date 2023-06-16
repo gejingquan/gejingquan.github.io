@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingquan Ge's Home Page"
+title: "Jingquan Ge (葛景全)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
