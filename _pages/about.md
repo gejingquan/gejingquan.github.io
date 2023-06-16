@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+## About
 I am now a research fellow at Nanyang Technological University. I am interested in all aspects of system security, including cache attacks and defenses, control flow integrity, fuzzing, AI security, hot patching, etc. My current research fields include root cause analysis of software bugs, vehicle system security, cache side channel defense, etc. The techniques I utilize include, but are not limited to, Linux and kernel programming, software-hardware co-design. I am good at ARMv8-A Linux and kernel technology and FPGA hardware programming. 
 
 Email: jingquan.ge@ntu.edu.sg
 
 
-Education
-======
+## Education
 * B.S. in Communication Engineering, Ocean University of China. (Sep.2004-Jun.2008)
     
 * M.S. in Electronics and Communication Engineering, University of Chinese Academy of Sciences. (Sep.2013-Jun.2016)
@@ -25,8 +23,7 @@ Education
 
 
 
-Work experience
-======
+## Work experience
 
 * Jun.2008-Sep.2013: Freelancer
 
@@ -40,8 +37,7 @@ Work experience
   * Duties included: Study on System and software security
 
 
-Academic Services
-======
+## Academic Services
 
 * Reviewer of IEEE UIC 2022.
 
@@ -49,8 +45,9 @@ Academic Services
 
 * Artifact Committee of ACSAC 2020.
  
-Skills
-======
+
+
+## Skills
 * Proficiency in linux kernel programming
 * Proficiency in hardware programming
 * Proficiency in ARM assembly programming
