@@ -8,6 +8,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 
 > 2023
+- Etienne Sapin, Suraj Menon, **Jingquan Ge**, Sheikh Mahbub Habib, Maurice Heymann, Yuekang Li, Rene Palige, Gabriel Byman, Yang Liu. 
+**Monitoring Automotive Software Security Health through Trustworthiness Score** (CSCS 2023).
 - **Jingquan Ge**, and Fengwei Zhang. 
 **FlushTime: Towards Mitigating Flush-based Cache Attacks via Collaborating Flush Instructions and Timers on ARMv8-A** (AsiaCCS 2023).
 - **Jingquan Ge**, Yuekang Li, Yang Liu, Yaowen Zheng, Yi Liu, and Lida Zhao. 
