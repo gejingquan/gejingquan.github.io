@@ -6,6 +6,11 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=v1HnGGEAAAAJ">my Google Scholar profile</a>.
 
+> 2024
+- **Jingquan Ge**, and Fengwei Zhang. 
+**SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks On ARM-FPGA Embedded SoC** (TCAD 2024).
+  
+
 
 > 2023
 - Etienne Sapin, Suraj Menon, **Jingquan Ge**, Sheikh Mahbub Habib, Maurice Heymann, Yuekang Li, Rene Palige, Gabriel Byman, Yang Liu. 
