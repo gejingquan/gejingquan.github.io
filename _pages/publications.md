@@ -8,24 +8,28 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 > 2024
 - **Jingquan Ge**, and Fengwei Zhang. 
-**SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks On ARM-FPGA Embedded SoC**.
-  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+**SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks On ARM-FPGA Embedded SoC.**
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
   
 
 
 > 2023
 - Etienne Sapin, Suraj Menon, **Jingquan Ge**, Sheikh Mahbub Habib, Maurice Heymann, Yuekang Li, Rene Palige, Gabriel Byman, Yang Liu. 
-**Monitoring Automotive Software Security Health through Trustworthiness Score** (CSCS 2023).
+**Monitoring Automotive Software Security Health through Trustworthiness Score.**
+Proceedings of the 7th ACM Computer Science in Cars Symposium (CSCS), 2023.
 - **Jingquan Ge**, and Fengwei Zhang. 
-**FlushTime: Towards Mitigating Flush-based Cache Attacks via Collaborating Flush Instructions and Timers on ARMv8-A** (AsiaCCS 2023).
+**FlushTime: Towards Mitigating Flush-based Cache Attacks via Collaborating Flush Instructions and Timers on ARMv8-A.**
+Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2023.
 - **Jingquan Ge**, Yuekang Li, Yang Liu, Yaowen Zheng, Yi Liu, and Lida Zhao. 
-**PumpChannel: An Efficient and Secure Communication Channel for Trusted Execution Environment on ARM‑FPGA Embedded SoC.** (DATE 2023).
+**PumpChannel: An Efficient and Secure Communication Channel for Trusted Execution Environment on ARM‑FPGA Embedded SoC.**
+Proceedings of Design, Automation & Test in Europe Conference & Exhibition (DATE), 2023.
 
 
 
 > 2022
 - **Jingquan Ge**, Yuekang Li, Yaowen Zheng, Yang Liu, and Sheikh Mahbub Habib. 
-**More Secure Collaborative APIs resistant to Flush‑Based Cache Attacks on Cortex‑A9 Based Automotive System.** (CSCS 2022).
+**More Secure Collaborative APIs resistant to Flush‑Based Cache Attacks on Cortex‑A9 Based Automotive System.**
+Proceedings of the 6th ACM Computer Science in Cars Symposium (CSCS), 2022.
 
 
 
