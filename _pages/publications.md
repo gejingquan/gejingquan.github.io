@@ -45,15 +45,20 @@ Proceedings of the 6th ACM Computer Science in Cars Symposium (CSCS), 2022.
 
 > 2019
 - Chenyang Tu, Zeyi Liu, Neng Gao, Cunqing Ma, **Jingquan Ge**, and Lingchen Zhang. 
-**MACM: How to reduce the multi-round SCA to the single-round attack on the Feistel-SP Networks.** (TIFS 2019).
+**MACM: How to reduce the multi-round SCA to the single-round attack on the Feistel-SP Networks.**
+IEEE Transactions on Information Forensics and Security (TIFS), 2019.
 - Churan Tang, Zongbin Liu, Cunqing Ma, **Jingquan Ge**, and Chenyang Tu.
-**SecFlush: A Hardware/Software Collaborative Design for Real-Time Detection and Defense against Flush-Based Cache Attacks.** (ICICS 2019).
+**SecFlush: A Hardware/Software Collaborative Design for Real-Time Detection and Defense against Flush-Based Cache Attacks.**
+Proceedings of Information and Communications Security - 25th International Conference (ICICS), 2019.
 - **Jingquan Ge**, Neng Gao, Chenyang Tu, Ji Xiang, and Zeyi Liu. 
-**More Secure Collaborative APIs resistant to Flush+Reload and Flush+Flush Attacks on ARMv8-A.** (APSEC 2019).
+**More Secure Collaborative APIs resistant to Flush+Reload and Flush+Flush Attacks on ARMv8-A.**
+Proceedings of 26th Asia-Pacific Software Engineering Conference (APSEC), 2019.
 - **Jingquan Ge**, Neng Gao, Chenyang Tu, Ji Xiang, and Zeyi Liu. 
-**AdapTimer: Hardware/Software Collaborative Timer Resistant to Flush-Based Cache Attacks on ARM-FPGA Embedded SoC.** (ICCD 2019).
+**AdapTimer: Hardware/Software Collaborative Timer Resistant to Flush-Based Cache Attacks on ARM-FPGA Embedded SoC.**
+Proceedings of 37th IEEE International Conference on Computer Design (ICCD), 2019.
 - Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, and **Jingquan Ge**. 
-**Knowledge Graph Embedding with Order Information of Triplets.** (PAKDD 2019).
+**Knowledge Graph Embedding with Order Information of Triplets.**
+Proceedings of Advances in Knowledge Discovery and Data Mining - 23rd Pacific-Asia Conference (PAKDD), 2019.
 
 
 
