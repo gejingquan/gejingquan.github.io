@@ -7,8 +7,10 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=v1HnGGEAAAAJ">my Google Scholar profile</a>.
 
 > 2024
-- **Jingquan Ge**, and Fengwei Zhang. 
+- **Jingquan Ge**, and Fengwei Zhang.
+  
 **SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks On ARM-FPGA Embedded SoC.**
+
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
   
 
