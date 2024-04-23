@@ -35,11 +35,14 @@ Proceedings of the 6th ACM Computer Science in Cars Symposium (CSCS), 2022.
 
 > 2020
 - Min He, Cunqing Ma, **Jingquan Ge**, Neng Gao, and Chenyang Tu. 
-  **Flush‑Detector: More Secure API Resistant to Flush‑Based Spectre Attacks on ARM Cortex‑A9.** (ISCC 2020).
+  **Flush‑Detector: More Secure API Resistant to Flush‑Based Spectre Attacks on ARM Cortex‑A9.**
+Proceedings of IEEE Symposium on Computers and Communications (ISCC), 2020.
 - Ping Peng, Cunqing Ma, **Jingquan Ge**, Neng Gao, and Chenyang Tu. 
-**A Hardware/Software Collaborative SM4 Implementation Resistant to Side-channel Attacks on ARM-FPGA Embedded SoC.** (ISCC 2020).
+**A Hardware/Software Collaborative SM4 Implementation Resistant to Side-channel Attacks on ARM-FPGA Embedded SoC.**
+Proceedings of IEEE Symposium on Computers and Communications (ISCC), 2020.
 - Churan Tang, Pengkun Liu, Cunqing Ma, Zongbin Liu, and **Jingquan Ge**. 
-**A High Accuracy and High Resolution Cache Attack On ARM-FPGA Embedded SoC.** (VTS 2020).
+**A High Accuracy and High Resolution Cache Attack On ARM-FPGA Embedded SoC.**
+Proceedings of the 38th IEEE VLSI Test Symposium (VTS), 2020.
 
 
 
@@ -64,7 +67,8 @@ Proceedings of Advances in Knowledge Discovery and Data Mining - 23rd Pacific-As
 
 > 2018
 - **Jingquan Ge**, Neng Gao, Chenyang Tu, Ji Xiang, Zeyi Liu, and Jun Yuan. 
-**Combination of Hardware and Software: An Efficient AES Implementation Resistant to Side-Channel Attacks on All Programmable SoC.** (ESORICS 2018).
+**Combination of Hardware and Software: An Efficient AES Implementation Resistant to Side-Channel Attacks on All Programmable SoC.**
+Proceedings of the 23rd European Symposium on Research in Computer Security (ESORICS), 2018.
 
 
 
