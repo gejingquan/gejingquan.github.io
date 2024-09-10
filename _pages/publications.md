@@ -7,6 +7,10 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=v1HnGGEAAAAJ">my Google Scholar profile</a>.
 
 > 2024
+
+- Yihao Luo, Yunjie Deng, **Jingquan Ge**, Zhenyu Ning and Fengwei Zhang.
+**BOOTRIST: Detecting and Isolating Mercurial Cores at the Booting Stage.**
+Proceedings of the 29rd European Symposium on Research in Computer Security (ESORICS), 2024.
 - **Jingquan Ge**, and Fengwei Zhang.
 **SnapMem: Hardware/Software Cooperative Memory Resistant to Cache-Related Attacks On ARM-FPGA Embedded SoC.**
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
