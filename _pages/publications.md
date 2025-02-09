@@ -8,6 +8,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 > 2024
 
+- Zhihao Lin, Wei Ma, Tao Lin, Yaowen Zheng, **Jingquan Ge**, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu and Li Li.
+**Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning.**
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2024.
 - Yihao Luo, Yunjie Deng, **Jingquan Ge**, Zhenyu Ning and Fengwei Zhang.
 **BOOTRIST: Detecting and Isolating Mercurial Cores at the Booting Stage.**
 Proceedings of the 29rd European Symposium on Research in Computer Security (ESORICS), 2024.
