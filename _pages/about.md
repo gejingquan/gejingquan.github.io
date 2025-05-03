@@ -39,13 +39,17 @@ Email: jingquan.ge@ntu.edu.sg
 
 ## Academic Services
 
+* Program Committee Member for the 2025 IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC'25).
+
+* Reviewer of The Journal of Supercomputing.
+
 * Reviewer of Cybersecurity.
 
-* Reviewer of IEEE UIC 2022.
+* Reviewer of the 2022 IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC'22).
 
 * Reviewer of Journal of Systems Architecture.
 
-* Artifact Committee of ACSAC 2020.
+* Artifact Committee of the 2020 Annual Computer Security Applications Conference (ACSAC'20).
  
 
 
