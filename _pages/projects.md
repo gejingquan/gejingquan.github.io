@@ -5,6 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 
+## OptRCA
+OptRCA is a more powerful root cause analysis tool that is optimized and improved based on AURORA.
+[github page](https://github.com/gejingquan/OptRCA)
+
+
 ## CollAES
 CollAES is a hardware/software co-design. 
 It is an efficient AES implementation resistant to side-channel attacks on ARM-FPGA embedded SoC.
