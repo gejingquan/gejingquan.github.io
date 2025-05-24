@@ -6,6 +6,15 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=v1HnGGEAAAAJ">my Google Scholar profile</a>.
 
+
+> 2025
+
+-  **Jingquan Ge**, Yaowen Zheng, Yuekang Li, Wei Ma, Sheikh Mahbub Habib, Praveen Kakkolangara, Gabriel Wayne Byman, Yang Liu.
+**OptRCA: A More Efficient and Accurate Approach for Automated Root Cause Analysis and Explanation.**
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2025.
+
+
+
 > 2024
 
 - Zhihao Lin, Wei Ma, Tao Lin, Yaowen Zheng, **Jingquan Ge**, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu and Li Li.
