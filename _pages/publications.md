@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 -  Yi Liu, Gelei Deng, Junchen Ding, Yuekang Li, Tianwei Zhang, Weisong Sun, Yaowen Zheng, **Jingquan Ge**.
 **Mission: Impossible–Image-Based Geolocation with Large Vision Language Models.**
-Proceedings on Privacy Enhancing Technologies (PETS), 2025.
+Proceedings of the 25th Privacy Enhancing Technologies Symposium (PETS'25), 2025.
 
 -  **Jingquan Ge**, Yaowen Zheng, Yuekang Li, Wei Ma, Sheikh Mahbub Habib, Praveen Kakkolangara, Gabriel Wayne Byman, Yang Liu.
 **OptRCA: A More Efficient and Accurate Approach for Automated Root Cause Analysis and Explanation.**
