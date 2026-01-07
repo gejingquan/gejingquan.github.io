@@ -39,6 +39,8 @@ Email: jingquan.ge@ntu.edu.sg
 
 ## Academic Services
 
+* Reviewer of The IEEE Transactions on Big Data.
+
 * Program Committee Member for the 2025 IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC'25).
 
 * Reviewer of The Journal of Supercomputing.
