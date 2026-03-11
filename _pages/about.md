@@ -47,7 +47,7 @@ Email: jingquan.ge@ntu.edu.sg
 
 * Reviewer of Cybersecurity.
 
-* Reviewer of the 2022 IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC'22).
+* Program Committee Member for the 2022 IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC'22).
 
 * Reviewer of Journal of Systems Architecture.
 
