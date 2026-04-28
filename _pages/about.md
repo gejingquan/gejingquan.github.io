@@ -65,6 +65,6 @@ Email: gejingquan@hit.edu.cn
 * Proficiency in ARM assembly programming
 * Good at software and hardware co-design
 * Proficiency in software analysis
-* Proficient in LLM-based security applications
+* Proficiency in LLM-based security applications
 
 
