@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## About
-I am now a research fellow at Nanyang Technological University. I am interested in all aspects of system security, including cache attacks and defenses, control flow integrity, fuzzing, AI security, hot patching, etc. My current research fields include root cause analysis of software bugs, vehicle system security, cache side channel defense, etc. The techniques I utilize include, but are not limited to, Linux and kernel programming, software-hardware co-design. I am good at ARMv8-A Linux and kernel technology and FPGA hardware programming. 
+I am now an Associate Professor at the School of Cyberspace Science, Harbin Institute of Technology (HIT), China. I am interested in all aspects of system, software and AI security, including cache attacks and defenses, control flow integrity, fuzzing, AI security, large language model security, hot patching, etc. My current research fields include root cause analysis of software bugs, vehicle system security, cache side channel defense, the security issues of large language models themselves and the application of large language models in system and software security. 
 
-Email: jingquan.ge@ntu.edu.sg
+Email: gejingquan@hit.edu.cn
 
 
 ## Education
@@ -32,9 +32,13 @@ Email: jingquan.ge@ntu.edu.sg
   * Duties included: Study on hardware and system security
 
 
-* Jun.2022-present: Research Fellow
+* Jun.2022-Feb. 2026: Research Fellow
   * Nanyang Technological University
   * Duties included: Study on System and software security
+
+* Mar.2026-present: Associate Professor
+  * Harbin Institute of Technology
+  * Duties included: Study on System and software security, LLM security and LLM-based security applications
 
 
 ## Academic Services
