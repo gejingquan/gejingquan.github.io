@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jingquan Ge"
-description              : &description "Research Fellow in Nanyang Technological University"
+description              : &description "Associate Professor at the School of Cyberspace Science, Harbin Institute of Technology"
 url                      : https://gejingquan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gejingquan.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=v1HnGGEAAAAJ"
-  email            : "jingquan.ge@ntu.edu.sg"
+  email            : "gejingquan@hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
