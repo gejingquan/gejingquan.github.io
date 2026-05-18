@@ -6,6 +6,12 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=v1HnGGEAAAAJ">my Google Scholar profile</a>.
 
+> 2026
+
+- Maoyi Xie, Kaixuan Li,  **Jingquan Ge**, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, Yang Liu.
+**Arash: Token‑Efficient LLM‑Assisted Crash Root Cause Analysis inFuzz Driver Generation.**
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2026.
+
 
 > 2025
 
