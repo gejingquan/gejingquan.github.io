@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-I am now an Associate Professor (Research Track) at the School of Cyberspace Science, Harbin Institute of Technology (HIT), China. I am interested in all aspects of system, software and AI security, including cache attacks and defenses, control flow integrity, fuzzing, AI security, large language model security, hot patching, etc. My current research fields include root cause analysis of software bugs, vehicle system security, cache side channel defense, the security issues of large language models themselves and the application of large language models in system and software security. 
+I am now an Associate Professor (Research Track) at the School of Cyberspace Science, Harbin Institute of Technology (HIT), China. I am interested in all aspects of LLM and AI security, system and software security. My current research fields include the security issues of large language models themselves and the application of large language models in system and software security, root cause analysis of software bugs, vehicle system security, cache side channel attack and defense. 
 
 Email: gejingquan@hit.edu.cn
 
