@@ -8,6 +8,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?h
 
 > 2026
 
+- Kaixuan Li, Maoyi Xie, **Jingquan Ge**, Yang Liu.
+**What Do We Architect When We Architect LLM Agent Systems?**
+Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE-Companion'26), 2026.
+
 - Maoyi Xie, Kaixuan Li,  **Jingquan Ge**, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, Yang Liu.
 **Arash: Token‑Efficient LLM‑Assisted Crash Root Cause Analysis in Fuzz Driver Generation.**
 ACM Transactions on Software Engineering and Methodology (TOSEM), 2026.
