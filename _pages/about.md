@@ -43,6 +43,8 @@ Email: gejingquan@hit.edu.cn
 
 ## Academic Services
 
+* Reviewer of The IEEE Transactions on Dependable and Secure Computing.
+
 * Program Committee Member for the 2026 IEEE International Conference on High Performance Computing and Communications (IEEE HPCC'26).
 
 * Reviewer of The IEEE Transactions on Big Data.
